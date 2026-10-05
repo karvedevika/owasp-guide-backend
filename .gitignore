@@ -1,0 +1,5 @@
+node_modules/
+.env
+guide.db
+guide.db-shm
+guide.db-wal
